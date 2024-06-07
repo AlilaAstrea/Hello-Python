@@ -29,3 +29,6 @@ print(type({9.8, 3.14, 2.4}))     # Tipo 'set'     <class 'set'>
 print(type((9.8, 3.14, 2.4)))     # Tipo 'tuple'   <class 'tuple'>
 
 # Es para asegurarse que un tipo de dato pertenezca a algo
+
+
+#Testeo de de rama notebook 
