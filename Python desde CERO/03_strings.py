@@ -126,4 +126,4 @@ print(resu.capitalize())
 print(resu.title())
 print(resu.swapcase())
 
-# Corta la primera palabra de la cadena Coding For All.
+# Corta la primera palabra de la cadena Coding For All. 9°

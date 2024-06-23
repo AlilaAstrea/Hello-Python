@@ -102,25 +102,5 @@ print(" Y circunferencia es de : ", 2 * pi * (longi / (2 * pi)))
 #r = C / 2*pi
 
 #---------------------------------------------------------------#
-#Calcula la pendiente, la intersección con el eje x y la intersección con el eje y de y = 2x - 2.
 
-# Definición de la función para calcular los valores
-def calcular_pendiente_intersecciones():
-    # Pendiente de la ecuación
-    pendiente = 2
-    
-    # Intersección con el eje y
-    interseccion_y = -2
-    
-    # Intersección con el eje x (resolver 0 = 2x - 2)
-    interseccion_x = 2 / 2  # x = 1
-    
-    return pendiente, interseccion_x, interseccion_y
 
-# Llamar a la función y obtener los resultados
-pendiente, interseccion_x, interseccion_y = calcular_pendiente_intersecciones()
-
-# Mostrar los resultados
-print(f"Pendiente: {pendiente}")
-print(f"Intersección con el eje x: {interseccion_x}")
-print(f"Intersección con el eje y: {interseccion_y}")
