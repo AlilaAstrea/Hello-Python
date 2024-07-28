@@ -1,7 +1,9 @@
 ### Tuplas ###
 
 """
-Una tupla es una colección de diferentes tipos de datos que está ordenada y es inmutable (inmutable). Las tuplas se escriben entre corchetes, (). Una vez creada una tupla, no podemos cambiar sus valores. No podemos usar métodos agregar, insertar y eliminar en una tupla porque no es modificable (mutable). A diferencia de la lista, la tupla tiene pocos métodos.
+Una tupla es una colección de diferentes tipos de datos que está ordenada y
+ es inmutable (inmutable). Las tuplas se escriben entre corchetes, ().
+   Una vez creada una tupla, no podemos cambiar sus valores. No podemos usar métodos agregar, insertar y eliminar en una tupla porque no es modificable (mutable). A diferencia de la lista, la tupla tiene pocos métodos.
 
 """
 
