@@ -379,3 +379,8 @@ print(formato.difference())
 print(formato)
 # {'encanta', 'me', 'inspirar', 'la', 'profesora', 'a', 'y', 'Soy', 'gente', 'enseñar'} 
 
+
+# Según contexto de uso: 
+# - Si aceptamos duplicados, es una LISTA[]
+# - Si queremos estructura inmutable, es una TUPLA() 
+# - Si queremos estructura sin repetidos, es un SET{}
