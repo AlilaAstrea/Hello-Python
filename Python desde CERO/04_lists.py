@@ -1,6 +1,6 @@
 ### Lists ###
 
-""" # Quitar Para ejecutar los ejemplos 
+# Quitar Para ejecutar los ejemplos 
 
 empy_list = list() # esto es una lista vacia, no un item en la lista
 print(len(empy_list))
@@ -97,7 +97,6 @@ print(my_new_list)  # [17, 24, 26, 30] # lo ordena de mayor a valor
 my_list = "Hola Python"
 print(my_list)
 
-"""
 
 """
 Ejercicios  
@@ -318,7 +317,6 @@ sorted() no modifica la lista original, sino que devuelve una nueva lista ordena
 
 
 #Agregue la edad mínima y la edad máxima nuevamente a la lista.
-
 
 
 #Encuentre la edad mediana (un elemento del medio o dos elementos del medio divididos por dos)
