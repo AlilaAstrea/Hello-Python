@@ -74,3 +74,6 @@ print(cantidad)
 
 print(listapalabra) # ['HOLA', 'MUNDO']
                     # ['HOLA.MUNDO'] # Ahora ['HOLA', 'MUNDO']
+
+
+# test :B testeo
